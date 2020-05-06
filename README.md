@@ -21,7 +21,7 @@
 
 * There is one chat-room for all users
 
-![chat-room](()) 
+![chat-room]((https://github.com/komaldevnani/messageme/blob/master/screenshots/Screenshot%20from%202020-05-06%2017-40-05.png?raw=true)) 
 
 * Only you can create user (you friend or anyone ) through ````rails console````. So that no-one else get access to your chatroom.
 
